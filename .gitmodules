@@ -1,0 +1,6 @@
+[submodule "model_a"]
+	path = model_a
+	url = https://github.com/john-james-ai/kedro
+[submodule "model_b"]
+	path = model_b
+	url = https://github.com/john-james-ai/kedro
