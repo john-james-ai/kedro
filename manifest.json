@@ -1,0 +1,26 @@
+{
+  "expert_name": "John James",
+  "task_id": "TASK_4476",
+  "timestamp": "2026-01-28T00:35:55.035745+00:00",
+  "repo_url": "git@github.com:john-james-ai/kedro.git",
+  "assignments": {
+    "model_a": "claude-churro-v2-p",
+    "model_b": "claude-sonnet-4-5-20250929"
+  },
+  "code_names": {
+    "model_a": "penguin",
+    "model_b": "pangolin"
+  },
+  "model_config": {
+    "static_model": "claude-churro-v2-p",
+    "chosen_model": "claude-sonnet-4-5-20250929"
+  },
+  "setup_verified": true,
+  "experiment_metadata": {
+    "setup_script_version": "2.1.0-v2",
+    "platform": "Linux",
+    "claude_version_downloaded": "2026-01-28",
+    "setup_duration_seconds": 532.73
+  },
+  "last_submission_version": 1
+}
